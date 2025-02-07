@@ -6,6 +6,9 @@ public class MyClass {
         //degisiklik 1
         System.out.println("Herkese selamlar");
 
+        //degisiklik 2
+        System.out.println("Adv Github dersine hosgeldiniz");
+
 
 
     }
