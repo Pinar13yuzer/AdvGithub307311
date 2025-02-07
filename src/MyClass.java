@@ -12,6 +12,9 @@ public class MyClass {
         //değişiklik 3
         System.out.println("Bu derste branchler işlenecek.");
 
+        //techproda degisiklik
+        System.out.println("Yeni branch");
+
 
 
     }
