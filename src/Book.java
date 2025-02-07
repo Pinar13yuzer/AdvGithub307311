@@ -7,6 +7,10 @@ public class Book {
     public String author;
 
     //calismaya devam.....
-    //...........
+    //...........tamamlandı
+
+    //localde degisiklik
+
+    //githubda degisiklik
 
 }
