@@ -1,8 +1,12 @@
-public class Book git{
-    public static void main(String[] args) {
+public class Book {
 
-
-    }
     //değişiklik 2
     public String name;
+
+    //yeni degisiklik 2
+    public String author;
+
+    //calismaya devam.....
+    //...........
+
 }
