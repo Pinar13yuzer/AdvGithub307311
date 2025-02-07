@@ -15,6 +15,9 @@ public class MyClass {
         //techproda degisiklik
         System.out.println("Yeni branch");
 
+        //techproda degisiklik2
+        System.out.println("Yeni branch");
+
 
 
     }
