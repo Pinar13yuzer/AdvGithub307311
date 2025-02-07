@@ -23,8 +23,10 @@ public class MyClass {
         //techpro degisiklik 3
         System.out.println("techpro");
 
-        //github degisiklik
+ dev
+        //dev branchinde degisiklik
 
+ 
 
     }
 }
