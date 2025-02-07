@@ -20,6 +20,9 @@ public class MyClass {
 
         //dev icinde degisiklik
 
+        //techpro degisiklik 3
+        System.out.println("techpro");
+
 
     }
 }
